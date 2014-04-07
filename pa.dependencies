@@ -1,9 +1,9 @@
 [
    {
-        "remote": "cm",
-        "repository": "android_kernel_lge_hammerhead",
-        "target_path": "kernel/lge/hammerhead",
-        "revision": "cm-11.0"
+        "remote":       "cm",
+        "repository":   "CyanogenMod/android_kernel_lge_hammerhead",
+        "target_path":  "kernel/lge/hammerhead",
+        "revision":     "cm-11.0"
     },
     {
         "remote":       "github",
