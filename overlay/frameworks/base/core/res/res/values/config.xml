@@ -279,5 +279,8 @@
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
     <integer name="config_deviceHardwareKeys">0</integer>
+    
+    <!-- Camera flash -->
+    <bool name="config_device_has_camera_flash">true</bool>
 
 </resources>
